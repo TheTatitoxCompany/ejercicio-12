@@ -5,6 +5,7 @@
 * La facultad
 * Mbappe
 * El Mago Sin Dientes
+* Vinicius
 
 #### No olvidemos los requisitos para ser un villano
 [] Tratar mal a las personas
