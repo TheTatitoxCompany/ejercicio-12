@@ -8,9 +8,10 @@
 * Vinicius
 
 #### No olvidemos los requisitos para ser un villano
-[] Tratar mal a las personas
-[] Ser fan de BTS
-[] Tener de apellido Gil (jaja como vas a ser tan gil)
+-Tratar mal a las personas
+-Ser fan de BTS
+-Tener de apellido Gil (jaja como vas a ser tan gil)
 
-*** Mucahs gracias *** 
-__ Por favor no copias mi excelente código __ 
+***Mucahs gracias*** 
+
+*Por favor no copias mi excelente código*
